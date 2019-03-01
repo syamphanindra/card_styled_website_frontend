@@ -1,0 +1,43 @@
+.card-outline{
+  width: 27%;
+  margin: 2.5% 2.5% 2.5% 2.5%;
+  float: left;
+  display:inline-block;
+  border: 1px solid #E1E1E1;
+  box-sizing: border-box;
+  box-shadow: inset 0 0 10px #000000;
+  background: rgba(237,237,237,0.5);
+  overflow: scroll;
+
+}
+
+
+.card-body{
+  color: #27408B;
+  overflow: scroll;
+}
+
+.card-body-heading {
+    color: green;
+    text-align: center;
+    overflow: scroll;
+    font-size: 20px;
+    padding-top: 10px;
+    overflow: scroll;
+}
+.card-body h1{
+
+  font-size: 60px;
+
+}
+.card-sub-body h3{
+padding-left: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+overflow: scroll;
+}
+
+.card-sub-body label{
+  color: black;
+  font-size: 19px;
+}

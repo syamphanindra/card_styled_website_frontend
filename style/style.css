@@ -1,0 +1,74 @@
+@import url("card-style.css");
+.searchbox{
+    border-style: solid;
+    box-align: center;
+    height: 40px;
+    width:60%;
+    max-width: 100%;
+    margin: 25px;
+    position: relative;
+    vertical-align: top;
+    overflow: scroll;
+}
+.searchbox:hover{
+    background-color:#eee;
+    cursor: pointer;
+
+}
+.searchheading{
+    float: left;
+    margin: 25px;
+    color: #F60100;
+}
+.search-div{
+  /* background: #333545; */
+  background: #002540;
+}
+
+.mainheading{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    background:blue;
+    max-width: 100%;
+    /* linear-gradient(90deg, #2E9CCA 30%, #3527b3 100%,#3AAFA9 30%); */
+    background:  linear-gradient(to right, #FF5F6D 0%, #FFC371 100%);
+}
+}
+
+.panel{
+    background-color:gainsboro;
+
+    border: 1px solid;
+    overflow:hidden ;
+}
+.container{
+    /* background-color: #DEF2F1; rgba(237,237,237,.5) */
+    background:  linear-gradient(to right, rgb(28, 146, 210), rgb(242, 252, 254));
+    max-width: 100%;
+}
+
+.card-background{
+  background-color: #f2f2f2;
+}
+
+.card-background:hover {
+  background-color: #A8D0E6;
+}
+
+.parent_container_cards{
+  height: 95%;
+}
+
+.whole-container{
+  height:  95%;
+
+}
+.whole-header{
+  height: 5%;
+}
+
+.sort_dd{
+  float: none;
+  width: 30%;
+}
